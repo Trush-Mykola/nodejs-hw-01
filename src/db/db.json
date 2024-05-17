@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "Dr. Earnest Murphy",
+    "phone": "282.255.7703 x392",
+    "email": "Howell.Kris-Stoltenberg46@gmail.com",
+    "job": "Product Optimization Officer"
+  },
+  {
+    "name": "Mable Harber",
+    "phone": "353-272-6569",
+    "email": "Davonte.OKeefe29@hotmail.com",
+    "job": "District Markets Supervisor"
+  },
+  {
+    "name": "Dr. Rose Prohaska",
+    "phone": "1-657-826-2853 x48309",
+    "email": "Danika.Jaskolski10@gmail.com",
+    "job": "Customer Intranet Designer"
+  },
+  {
+    "name": "Eunice Hamill",
+    "phone": "652-457-1973 x64896",
+    "email": "Laurel_Hegmann@gmail.com",
+    "job": "Forward Marketing Orchestrator"
+  },
+  {
+    "name": "Jody Trantow",
+    "phone": "996.945.8117 x14674",
+    "email": "Charlotte.Lueilwitz56@yahoo.com",
+    "job": "Investor Infrastructure Agent"
+  },
+  {
+    "name": "Leigh Friesen",
+    "phone": "(795) 406-0670 x27585",
+    "email": "Conner7@yahoo.com",
+    "job": "Lead Accountability Specialist"
+  }
+]
